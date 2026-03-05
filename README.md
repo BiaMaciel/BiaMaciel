@@ -7,6 +7,14 @@ Com o tempo, percebi que realmente queria me aprofundar na área, me qualificar 
 Atualmente, venho desenvolvendo projetos acadêmicos e pessoais para praticar lógica de programação e desenvolvimento.   
 
 ---
+###📱 Social Media
+<p align="left">
+    <a href="www.linkedin.com/in/
+    beatriz-maciel-7941a73b0">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin     logo"  />
+    </a>
+    
+</p>    
 
 ### 🤖 Linguagens e Tecnologias
 
